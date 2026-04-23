@@ -1,0 +1,2 @@
+// Prisma schema intentionally omitted.
+// This project uses direct SQL via `postgres` to avoid ORM codegen/runtime coupling.
